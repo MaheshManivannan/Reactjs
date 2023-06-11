@@ -1,0 +1,14 @@
+*{
+    
+    
+    font-family: sans-serif;
+    background-color: grey;
+    color: white;
+    
+    
+}
+.app{
+    background-color: aqua;
+    text-decoration: line-through;
+    text-transform: lowercase;
+}
